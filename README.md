@@ -1,2 +1,1 @@
-# Digimon---jogo
-Projeto de jogo para aula
+Digimon - Jogo de Aventura
