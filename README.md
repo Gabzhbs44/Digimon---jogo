@@ -48,7 +48,6 @@ Obstáculos naturais, como troncos, que bloqueiam algumas rotas.
 
 
 7. Sistema de Pontuação
-___________________________________________________­
 
 Derrotando inimigos (Digimons controlados pelo mal).
 Coletando itens espalhados pelo mapa.
@@ -58,6 +57,7 @@ Vitória em batalhas contra inimigos.
 
 Cada inimigo derrotado: +50 XP
 Cada item coletado: +10 XP
+_________________________________
 
 
 8. Sistema de Vida
