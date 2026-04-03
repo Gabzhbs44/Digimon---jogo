@@ -46,6 +46,7 @@ Caminhos livres entre árvores, permitindo a exploração.
 Obstáculos naturais, como troncos, que bloqueiam algumas rotas.
 Áreas que exigem ações do jogador, como pular ou se agachar, para avançar.
 
+
 7. Sistema de Pontuação
 ­­­­_________________________________
 
@@ -57,6 +58,7 @@ Vitória em batalhas contra inimigos.
 
 Cada inimigo derrotado: +50 XP
 Cada item coletado: +10 XP
+
 
 8. Sistema de Vida
 _________________________________
