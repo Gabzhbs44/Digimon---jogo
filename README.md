@@ -21,5 +21,6 @@ Quando Jack derrota seu inimigo, ele ficará muito feliz por recuperar seu amigo
 
 O personagem principal é Jack. Ele se movimenta para a esquerda, para a direita e para cima, e pode se agachar.
 
+Pontuação
 A pontuação pode ser em forma de XP.
 
