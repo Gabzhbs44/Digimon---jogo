@@ -48,7 +48,7 @@ Obstáculos naturais, como troncos, que bloqueiam algumas rotas.
 
 
 7. Sistema de Pontuação
-
+__________________________________
 Derrotando inimigos (Digimons controlados pelo mal).
 Coletando itens espalhados pelo mapa.
 
