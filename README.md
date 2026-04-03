@@ -57,7 +57,7 @@ Vitória em batalhas contra inimigos.
 
 Cada inimigo derrotado: +50 XP
 Cada item coletado: +10 XP
-_________________________________
+
 
 
 8. Sistema de Vida
