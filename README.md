@@ -1,6 +1,6 @@
 
 Digimon - Jogo de Aventura
-_________________________________1. Título do Jogo
+1. Título do Jogo
 _________________________________
 Digimon - Aventura Digital
 
