@@ -24,6 +24,7 @@ _________________________________
 Sua jornada começa após sua aldeia ser destruída por inimigos. Durante o ataque, seu Digimon foi levado. Agora, o objetivo é reconstruir a aldeia enquanto busca recuperar seu Digimon. Ao longo do caminho, você enfrentará desafios até encontrar e derrotar o responsável pela destruição. Assim, Jack, o personagem principal, completará sua jornada heroica.
 
 Quando Jack derrota seu inimigo, ele ficará muito feliz por recuperar seu amigo, sua aldeia estará segura e ele poderá voltar para casa.
+
 4. Personagem Principal
 _________________________________
 O personagem principal é Jack. 
@@ -37,12 +38,14 @@ Os inimigos são Digimons controlados pelo mal, que são comandados por um líde
 Os inimigos andam sozinhos pelo mapa, mas são lentos.
 
 Ao colidir com um Digimon controlado pelo mal, o jogador inicia uma batalha. Durante a batalha, Jack perde vida ao ser atacado e ganha experiência (XP) ao derrotar o inimigo.
+
 6. Cenário (Mapa)
 _________________________________
 O jogo se passa em uma floresta com árvores grandes e bastante espaço entre elas. O terreno é coberto por grama verde.
 Caminhos livres entre árvores, permitindo a exploração.
 Obstáculos naturais, como troncos, que bloqueiam algumas rotas.
 Áreas que exigem ações do jogador, como pular ou se agachar, para avançar.
+
 7. Sistema de Pontuação
 ­­­­_________________________________
 Derrotando inimigos (Digimons controlados pelo mal).
@@ -53,6 +56,7 @@ Vitória em batalhas contra inimigos.
 
 Cada inimigo derrotado: +50 XP
 Cada item coletado: +10 XP
+
 8. Sistema de Vida
 _________________________________
 Quantidade inicial de vida: 100
@@ -74,12 +78,14 @@ Ao colidir com um inimigo, inicia uma batalha.
 Durante a batalha, Jack perde vida ao ser atacado e ganha XP ao derrotar o inimigo.
 Condições de vitória: derrotar o líder David e recuperar seu Digimon.
 Condições de derrota: vida de Jack chega a 0, reiniciando o jogo.
+
 11. Regras do Jogo
 _________________________________
 Jack não pode atravessar obstáculos naturais como troncos.
 O jogador deve explorar os caminhos para encontrar inimigos e itens.
 Itens coletados aumentam XP ou recuperam vida.
 Para avançar em certas áreas, é necessário pular ou se agachar.
+
 12. Estrutura do Projeto
 _________________________________
 player/ → arquivos do personagem Jack
@@ -87,6 +93,7 @@ enemy/ → arquivos dos Digimons controlados pelo mal
 map/ → arquivos do mapa e obstáculos
 items/ → arquivos de itens coletáveis
 main.py → arquivo principal que roda o jogo
+
 13. Funcionalidades Mínimas
 _________________________________
 Movimento do personagem Jack (cima, baixo, esquerda, direita e agachar)
