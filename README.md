@@ -46,9 +46,7 @@ Caminhos livres entre árvores, permitindo a exploração.
 Obstáculos naturais, como troncos, que bloqueiam algumas rotas.
 Áreas que exigem ações do jogador, como pular ou se agachar, para avançar.
 
-
 7. Sistema de Pontuação
-
 ­­­­_________________________________
 Derrotando inimigos (Digimons controlados pelo mal).
 Coletando itens espalhados pelo mapa.
